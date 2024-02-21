@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Инга Егонская](https://up.htmlacademy.ru/react/15/user/2166645).
-* Наставник: `Неизвестно`.
+- Студент: [Инга Егонская](https://up.htmlacademy.ru/react/15/user/2166645).
+- Наставник: [Сергей Зуев](https://htmlacademy.ru/profile/ekzaton).
 
 ---
 
