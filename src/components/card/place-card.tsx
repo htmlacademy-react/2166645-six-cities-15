@@ -30,7 +30,7 @@ export default function PlaceCard () {
         </div>
         <div className="place-card__rating rating">
           <div className="place-card__stars rating__stars">
-            <span style={{ width: "80%" }} />
+            <span style={{ width: '80%' }} />
             <span className="visually-hidden">Rating</span>
           </div>
         </div>

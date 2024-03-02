@@ -1,4 +1,4 @@
-import MainPage from "../page/main-page";
+import MainPage from '../page/main/main-page';
 
 type AppScreenProps = {
   rentCount: number;
