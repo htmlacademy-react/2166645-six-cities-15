@@ -115,11 +115,7 @@ export default function MainPage ({rentCount}: SuggestionProps): JSX.Element {
                 </ul>
               </form>
               <div className="cities__places-list places__list tabs__content">
-                <PlaceCard />
-                <PlaceCard />
-                <PlaceCard />
-                <PlaceCard />
-                <PlaceCard />
+                {Array.from({ length: rentCount }, (_, index) => <PlaceCard key={index} />)}
               </div>
             </section>
             <div className="cities__right-section">
